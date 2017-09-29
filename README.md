@@ -1,4 +1,6 @@
+___
 # Algorithms and Data Structures:
+___
 1. Arrays
 2. Linked Lists
 3. Stack Queue
